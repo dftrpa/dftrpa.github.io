@@ -1,4 +1,4 @@
-RPAF is a Local Density Approximation functional based on the correlation energy of the uniform electron gas by using a renormalized random phase approximation (RPA) screened interaction.
+RPAF is a Local Density Approximation functional based on the uniform electron gas by using a renormalized random phase approximation (RPA) screened interaction.
 
 For more details about the functional see <paper `reference goes here>.
 
