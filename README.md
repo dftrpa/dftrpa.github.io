@@ -1,4 +1,4 @@
-RPAF, short for Random Phase Approximation (RPA) Functional, is a local density approximation functional based on the uniform electron gas with an RPA-renormalized screened interaction.
+RPAF, short for Random Phase Approximation (RPA) based Functional, is a local density approximation functional based on the uniform electron gas with an RPA-renormalized screened interaction.
 
 For more details about the functional see (paper reference goes here).
 
