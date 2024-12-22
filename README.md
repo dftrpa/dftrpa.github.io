@@ -10,7 +10,9 @@ To use the functional for self-consistent calculations, add the flag ```input_df
 
 A ready-to-use set of pseudopotentials for the RPAF can be found below. These pseudopotentials were generated with the [PSlibrary](https://dalcorso.github.io/pslibrary/) input files.
 
-- us_high_precision.tar
-- us_low_precision.tar
-- paw_high_precision.tar
-- paw_low_precision.tar
+- [PAW file 1](paw1.tar.gz)
+- [PAW file 2](paw2.tar.gz)
+- [PAW file 3](paw3.tar.gz)
+- [USPP file 1](uspp1.tar.gz)
+- [USPP file 2](uspp2.tar.gz)
+- [USPP file 3](uspp3.tar.gz)
